@@ -1,0 +1,18 @@
+# Target process executable names, separated by semicolons
+TargetProcesses=ExamplePlayer.exe
+
+# Full path to SoundVolumeView
+SoundVolumeViewPath=C:\Programs\soundvolumeview-x64\SoundVolumeView.exe
+
+# SoundVolumeView Command-Line Friendly ID
+AudioDevice=AMD High Definition Audio Device\Device\1 - Audio System\Render
+
+# Windows Core Audio endpoint ID
+WindowsDeviceId={0.0.0.00000000}.{00000000-0000-0000-0000-000000000000}
+
+# Music profile
+MusicBitDepth=24
+MusicSampleRate=192000
+
+# Dolby Atmos for Home Theater GUID
+AtmosGuid={A289735D-FA3E-4E35-9D7D-B6F896ACB2E7}

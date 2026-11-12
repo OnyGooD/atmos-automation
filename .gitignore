@@ -1,0 +1,16 @@
+# Log files
+*.log
+
+# Saved audio-format backups
+*.dat
+
+# Temporary files
+*.tmp
+*.bak
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Visual Studio Code settings
+.vscode/
